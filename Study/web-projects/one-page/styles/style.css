@@ -1,0 +1,23 @@
+.op {
+    background-color: rgba(0, 0, 0, 0.174);
+    text-align: center;
+    height: 100px;
+    padding: 20px;
+}
+
+.op img {
+    width: 188px;
+}
+
+#tp {
+    width: 700px;
+    margin: 50px auto;
+    color: #0a0a0a;
+}
+
+#sp {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: rgb(13, 0, 255);
+}
